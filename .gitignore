@@ -1,3 +1,5 @@
+.idea/
+
 *.gem
 *.rbc
 /.config
@@ -12,6 +14,11 @@
 
 # Used by dotenv library to load environment variables.
 # .env
+
+## Jekyll
+_site
+.sass-cache
+.jekyll-metadata
 
 ## Specific to RubyMotion:
 .dat*
